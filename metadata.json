@@ -1,0 +1,6 @@
+{
+  "name": "Raízes da Liberdade – Uma Jornada pela História",
+  "description": "Jogo educativo e interativo da Consciência Negra sobre a história, resistência, heróis e cultura afro-brasileira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
